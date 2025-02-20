@@ -1,2 +1,1 @@
-# CSC Ostwald project
-## Welcome ! 
+# .github README
