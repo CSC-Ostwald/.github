@@ -1,1 +1,2 @@
-# .github
+# CSC Ostwald project
+## Welcome ! 
